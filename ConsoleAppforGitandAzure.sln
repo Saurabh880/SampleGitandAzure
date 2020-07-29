@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppforGitandAzure", "ConsoleAppforGitandAzure\ConsoleAppforGitandAzure.csproj", "{696D87DE-C6BC-471D-908E-FBBDBC9BA892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696D87DE-C6BC-471D-908E-FBBDBC9BA892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696D87DE-C6BC-471D-908E-FBBDBC9BA892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696D87DE-C6BC-471D-908E-FBBDBC9BA892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696D87DE-C6BC-471D-908E-FBBDBC9BA892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36153F99-7F53-4E2D-AB86-248A0BB87843}
+	EndGlobalSection
+EndGlobal
